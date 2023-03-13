@@ -1,6 +1,11 @@
-Go to the WIKI for Instal
+How to download?
 
-and go to releases for the ZIP
+Click on the link: https://github.com/USFE135/NFSMW-Police-Pack/releases
+
+How to install?
+Inside the zip, read the README.TXT Or Check https://github.com/USFE135/NFSMW-Police-Pack/wiki
+
+Any issues with the mod please go to https://github.com/USFE135/NFSMW-Police-Pack/issues and create a ticket.
 
 Enjoy the mod !
 
@@ -17,4 +22,3 @@ Required mods:
 # You are not allowed to redistrubute this mod without my permission
 
 
-# NFSMW-Police-Pack-Driver-Syn
