@@ -26,4 +26,3 @@ Required mods:
 # You are not allowed to redistrubute this mod without my permission
 
 
-![image](https://user-images.githubusercontent.com/39233700/224631643-7c25a9b0-cbb6-4c78-8ebe-f5c0b1048b7b.png)
