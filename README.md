@@ -1,3 +1,7 @@
+ A 3 year break , decided to make this pack finally public , The reason I didn't release it years ago and with the rest of my mods , I was not satisfied with the first result and was not ready for release . After 3 years , I decided to go back and relearn everything (Working on Unbound Cars..) , Damage , sounds , the works , and now I'm satisfied with the final Result , I hope you enjoy Finally my first Public Mod.
+
+The Rest of the pack is getting reworked from the ground up , Will update the file once an update comes out.
+
 How to download?
 
 Click on the link: https://github.com/USFE135/NFSMW-Police-Pack/releases
