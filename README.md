@@ -4,12 +4,12 @@ The Rest of the pack is getting reworked from the ground up , Will update the fi
 
 How to download?
 
-Click on the link: https://github.com/USFE135/NFSMW-Police-Pack/releases
+Click on the link: https://github.com/ET797/NFSMW-Police-Pack/releases
 
 How to install?
-Inside the zip, read the README.TXT Or Check https://github.com/USFE135/NFSMW-Police-Pack/wiki/Install
+Inside the zip, read the README.TXT Or Check https://github.com/ET797/NFSMW-Police-Pack/wiki/Install
 
-Any issues with the mod please go to https://github.com/USFE135/NFSMW-Police-Pack/issues and create a ticket.
+Any issues with the mod please go to https://github.com/ET797/NFSMW-Police-Pack/issues and create a ticket.
 
 Enjoy the mod !
 
